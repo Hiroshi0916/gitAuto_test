@@ -1,1 +1,0 @@
-# gitAuto_test
